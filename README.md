@@ -4,6 +4,8 @@
 
 ### Estudante de Ciência de Dados | UNIVESP
 
+![Animação alternando entre momento café e momento DEV](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=FF00F6&center=true&vCenter=true&width=460&lines=%E2%98%95+Momento+caf%C3%A9;%F0%9F%92%BB+Momento+DEV)
+
 Explorando dados, tecnologia e formas de transformar informação em decisões melhores.
 
 [![Python](https://img.shields.io/badge/Python-em%20estudo-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -47,6 +49,16 @@ Atualmente estou fortalecendo meus conhecimentos em **Python e SQL** e desenvolv
 
 Projeto Integrador da UNIVESP: uma plataforma acadêmica para busca, anúncio, locação e compra de imóveis. O projeto reúne desenvolvimento de software, banco de dados, experiência do usuário e documentação técnica.
 
+## 🎧 Meu Spotify
+
+<div align="center">
+
+[![Ouça meu perfil no Spotify](https://img.shields.io/badge/Ou%C3%A7a%20meu%20perfil%20no-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31lpvdabykx3ozuyak2bmfgr436q)
+
+Clique no botão para abrir meu perfil e ouvir no Spotify.
+
+</div>
+
 ## 📊 GitHub
 
 <div align="center">
@@ -64,7 +76,6 @@ Projeto Integrador da UNIVESP: uma plataforma acadêmica para busca, anúncio, l
 [![E-mail](https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=microsoftoutlook&logoColor=FF00F6)](mailto:diasingrid249@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/ingrid-santos-63460aab/)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF00F6)](https://www.instagram.com/yndi_guid/)
-[![Spotify](https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=spotify&logoColor=1DB954)](https://open.spotify.com/user/31lpvdabykx3ozuyak2bmfgr436q)
 
 </div>
 
