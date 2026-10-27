@@ -14,6 +14,12 @@ Explorando dados, tecnologia e formas de transformar informação em decisões m
 
 </div>
 
+<div align="center">
+
+![Contador de visitas do perfil](https://komarev.com/ghpvc/?username=SantosIngridIA&label=VISITAS+AO+PERFIL&color=FF00F6&style=flat)
+
+</div>
+
 ---
 
 ## 📊 GitHub
