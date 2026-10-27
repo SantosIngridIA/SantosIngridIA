@@ -16,6 +16,18 @@ Explorando dados, tecnologia e formas de transformar informação em decisões m
 
 ---
 
+## 🎧 Ouvindo no Spotify
+
+<div align="center">
+
+[![Músicas recentes e faixa tocando agora no Spotify](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=22s4sninefb5oh22jvymupjxi)](https://open.spotify.com/user/22s4sninefb5oh22jvymupjxi)
+
+[Abrir meu perfil no Spotify](https://open.spotify.com/user/22s4sninefb5oh22jvymupjxi)
+
+</div>
+
+---
+
 ## 🌱 Sobre mim
 
 - 🎓 Graduanda em **Ciência de Dados** pela **UNIVESP**.
@@ -48,16 +60,6 @@ Atualmente estou fortalecendo meus conhecimentos em **Python e SQL** e desenvolv
 ### [Chave Direta](https://github.com/SantosIngridIA/chave-direta)
 
 Projeto Integrador da UNIVESP: uma plataforma acadêmica para busca, anúncio, locação e compra de imóveis. O projeto reúne desenvolvimento de software, banco de dados, experiência do usuário e documentação técnica.
-
-## 🎧 Ouvindo no Spotify
-
-<div align="center">
-
-[![Músicas recentes e faixa tocando agora no Spotify](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=22s4sninefb5oh22jvymupjxi)](https://open.spotify.com/user/22s4sninefb5oh22jvymupjxi)
-
-[Abrir meu perfil no Spotify](https://open.spotify.com/user/22s4sninefb5oh22jvymupjxi)
-
-</div>
 
 ## 📊 GitHub
 
