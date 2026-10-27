@@ -30,6 +30,12 @@ Explorando dados, tecnologia e formas de transformar informação em decisões m
 
 ![Sequência de contribuições da Ingrid](https://streak-stats.demolab.com?user=SantosIngridIA&theme=synthwave&hide_border=true&locale=pt_BR)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SantosIngridIA/SantosIngridIA/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SantosIngridIA/SantosIngridIA/output/github-contribution-grid-snake.svg" />
+  <img alt="Animação da cobrinha percorrendo minhas contribuições no GitHub" src="https://raw.githubusercontent.com/SantosIngridIA/SantosIngridIA/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 ---
