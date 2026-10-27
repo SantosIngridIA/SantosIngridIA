@@ -20,7 +20,7 @@ Explorando dados, tecnologia e formas de transformar informação em decisões m
 
 Projetos acadêmicos, minha trajetória em Ciência de Dados e apresentações dos sistemas que desenvolvi.
 
-[![Acessar meu portfólio](https://img.shields.io/badge/ACESSAR_PORTF%C3%93LIO-CYBERPUNK_LOFI_POP-ff71c8?style=for-the-badge&logo=githubpages&logoColor=100b20)](https://ingrid-dias-santos-portfolio.diasingrid56.chatgpt.site/)
+[![Acessar meu portfólio](https://img.shields.io/badge/ACESSAR_PORTF%C3%93LIO-CYBERPUNK_LOFI_POP-ff71c8?style=for-the-badge&logo=githubpages&logoColor=100b20)](https://santosingridia.github.io/)
 
 </div>
 
