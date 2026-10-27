@@ -98,7 +98,7 @@ Projeto Integrador da UNIVESP: uma plataforma acadêmica para busca, anúncio, l
 <div align="center">
 
 [![E-mail](https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=microsoftoutlook&logoColor=FF00F6)](mailto:diasingrid249@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/ingrid-santos-63460aab/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/ingrid-santos-dados/)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF00F6)](https://www.instagram.com/yndi_guid/)
 
 </div>
