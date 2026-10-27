@@ -16,6 +16,16 @@ Explorando dados, tecnologia e formas de transformar informação em decisões m
 
 <div align="center">
 
+### 🌐 Meu portfólio profissional
+
+Projetos acadêmicos, minha trajetória em Ciência de Dados e apresentações dos sistemas que desenvolvi.
+
+[![Acessar meu portfólio](https://img.shields.io/badge/ACESSAR_PORTF%C3%93LIO-CYBERPUNK_LOFI_POP-ff71c8?style=for-the-badge&logo=githubpages&logoColor=100b20)](https://ingrid-dias-santos-portfolio.diasingrid56.chatgpt.site/)
+
+</div>
+
+<div align="center">
+
 ![Contador de visitas do perfil](https://komarev.com/ghpvc/?username=SantosIngridIA&label=VISITAS+AO+PERFIL&color=FF00F6&style=flat)
 
 </div>
