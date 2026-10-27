@@ -49,13 +49,13 @@ Atualmente estou fortalecendo meus conhecimentos em **Python e SQL** e desenvolv
 
 Projeto Integrador da UNIVESP: uma plataforma acadêmica para busca, anúncio, locação e compra de imóveis. O projeto reúne desenvolvimento de software, banco de dados, experiência do usuário e documentação técnica.
 
-## 🎧 Meu Spotify
+## 🎧 Ouvindo no Spotify
 
 <div align="center">
 
-[![Ouça meu perfil no Spotify](https://img.shields.io/badge/Ou%C3%A7a%20meu%20perfil%20no-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31lpvdabykx3ozuyak2bmfgr436q)
+[![Músicas recentes e faixa tocando agora no Spotify](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31lpvdabykx3ozuyak2bmfgr436q&theme=dark&count=5&now_playing=1&progress=1)](https://open.spotify.com/user/31lpvdabykx3ozuyak2bmfgr436q)
 
-Clique no botão para abrir meu perfil e ouvir no Spotify.
+[Abrir meu perfil no Spotify](https://open.spotify.com/user/31lpvdabykx3ozuyak2bmfgr436q)
 
 </div>
 
