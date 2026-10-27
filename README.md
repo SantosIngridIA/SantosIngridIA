@@ -16,13 +16,13 @@ Explorando dados, tecnologia e formas de transformar informação em decisões m
 
 ---
 
-## 🎧 Ouvindo no Spotify
+## 📊 GitHub
 
 <div align="center">
 
-[![Músicas recentes e faixa tocando agora no Spotify](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=22s4sninefb5oh22jvymupjxi)](https://open.spotify.com/user/22s4sninefb5oh22jvymupjxi)
+![Estatísticas do GitHub da Ingrid](https://github-readme-stats.vercel.app/api?username=SantosIngridIA&show_icons=true&theme=synthwave&hide_border=true&locale=pt-br)
 
-[Abrir meu perfil no Spotify](https://open.spotify.com/user/22s4sninefb5oh22jvymupjxi)
+![Sequência de contribuições da Ingrid](https://streak-stats.demolab.com?user=SantosIngridIA&theme=synthwave&hide_border=true&locale=pt_BR)
 
 </div>
 
@@ -61,13 +61,13 @@ Atualmente estou fortalecendo meus conhecimentos em **Python e SQL** e desenvolv
 
 Projeto Integrador da UNIVESP: uma plataforma acadêmica para busca, anúncio, locação e compra de imóveis. O projeto reúne desenvolvimento de software, banco de dados, experiência do usuário e documentação técnica.
 
-## 📊 GitHub
+## 🎧 Ouvindo no Spotify
 
 <div align="center">
 
-![Estatísticas do GitHub da Ingrid](https://github-readme-stats.vercel.app/api?username=SantosIngridIA&show_icons=true&theme=synthwave&hide_border=true&locale=pt-br)
+[![Músicas recentes e faixa tocando agora no Spotify](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=22s4sninefb5oh22jvymupjxi)](https://open.spotify.com/user/22s4sninefb5oh22jvymupjxi)
 
-![Sequência de contribuições da Ingrid](https://streak-stats.demolab.com?user=SantosIngridIA&theme=synthwave&hide_border=true&locale=pt_BR)
+[Abrir meu perfil no Spotify](https://open.spotify.com/user/22s4sninefb5oh22jvymupjxi)
 
 </div>
 
