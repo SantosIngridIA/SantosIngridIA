@@ -53,9 +53,9 @@ Projeto Integrador da UNIVESP: uma plataforma acadêmica para busca, anúncio, l
 
 <div align="center">
 
-[![Músicas recentes e faixa tocando agora no Spotify](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31lpvdabykx3ozuyak2bmfgr436q&theme=dark&count=5&now_playing=1&progress=1)](https://open.spotify.com/user/31lpvdabykx3ozuyak2bmfgr436q)
+[![Músicas recentes e faixa tocando agora no Spotify](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=22s4sninefb5oh22jvymupjxi)](https://open.spotify.com/user/22s4sninefb5oh22jvymupjxi)
 
-[Abrir meu perfil no Spotify](https://open.spotify.com/user/31lpvdabykx3ozuyak2bmfgr436q)
+[Abrir meu perfil no Spotify](https://open.spotify.com/user/22s4sninefb5oh22jvymupjxi)
 
 </div>
 
